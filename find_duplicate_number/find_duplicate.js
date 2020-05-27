@@ -2,6 +2,11 @@
  * @param {number[]} nums
  * @return {number}
  */
-var findDuplicate = function(nums) {
-    
+
+function find_duplicate(nums) {
+
 };
+
+module.exports = {
+    find_duplicate: find_duplicate,
+  };

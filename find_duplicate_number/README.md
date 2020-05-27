@@ -21,3 +21,14 @@ Output: 3
 2. You must use only constant, O(1) extra space.
 3. Your runtime complexity should be less than O(n2).
 4. There is only one duplicate number in the array, but it could be repeated more than once.
+
+## Testing
+
+### js using jest
+
+For the javascript solution please use `npm install` to setup the testing
+then run `npm test` to test your code
+
+### Python test
+
+To test the python simply run `python3 test_find_duplicates.py`
