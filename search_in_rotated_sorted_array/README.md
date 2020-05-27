@@ -23,3 +23,12 @@ Example 2:
 Input: nums = [4,5,6,7,0,1,2], target = 3
 Output: -1
 ```
+
+## Testing
+
+*js using jest*
+- For the javascript solution please use `npm install` to setup the testing 
+- then run `npm test` to test your code
+
+*Python test*
+- To test the python simply run `python3 test_search_array.py`
