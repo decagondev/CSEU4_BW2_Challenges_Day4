@@ -3,6 +3,11 @@
  * @param {number} target
  * @return {number}
  */
-var search = function(nums, target) {
-    
+
+function search(nums, target) {
+
 };
+
+module.exports = {
+    search: search,
+  };
